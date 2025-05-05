@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Pav Bhaji",
+        "description": "Delicious mashed vegetable curry served with buttered buns",
+        "price": 50.00,
+        "category": "indian",
+        "image": "https://source.unsplash.com/random/300x200/?pavbhaji"
+    },
+    {
+        "id": 2,
+        "name": "Chole Bhature",
+        "description": "Spicy chickpea curry with deep-fried bread",
+        "price": 90.00,
+        "category": "indian",
+        "image": "https://source.unsplash.com/random/300x200/?cholebhature"
+    },
+    {
+        "id": 3,
+        "name": "Pizza",
+        "description": "Classic pizza with cheese and toppings of your choice",
+        "price": 100.00,
+        "category": "italian",
+        "image": "https://source.unsplash.com/random/300x200/?pizza"
+    },
+    {
+        "id": 4,
+        "name": "Mango Lassi",
+        "description": "Refreshing yogurt drink with sweet mango pulp",
+        "price": 40.00,
+        "category": "beverage",
+        "image": "https://source.unsplash.com/random/300x200/?mangolassi"
+    },
+    {
+        "id": 5,
+        "name": "Masala Dosa",
+        "description": "Crispy rice crepe filled with spiced potato mixture",
+        "price": 60.00,
+        "category": "south indian",
+        "image": "https://source.unsplash.com/random/300x200/?masaladosa"
+    },
+    {
+        "id": 6,
+        "name": "Vegetable Biryani",
+        "description": "Fragrant rice cooked with mixed vegetables and spices",
+        "price": 50.00,
+        "category": "indian",
+        "image": "https://source.unsplash.com/random/300x200/?vegetablebiryani"
+    },
+    {
+        "id": 7,
+        "name": "Vada Pav",
+        "description": "Spicy potato fritter sandwiched in a bun",
+        "price": 30.00,
+        "category": "street food",
+        "image": "https://source.unsplash.com/random/300x200/?vadapav"
+    },
+    {
+        "id": 8,
+        "name": "Rava Dosa",
+        "description": "Crispy semolina crepe served with chutney and sambar",
+        "price": 70.00,
+        "category": "south indian",
+        "image": "https://source.unsplash.com/random/300x200/?ravadosa"
+    },
+    {
+        "id": 9,
+        "name": "Samosa",
+        "description": "Crispy pastry filled with spiced potatoes and peas",
+        "price": 25.00,
+        "category": "snack",
+        "image": "https://source.unsplash.com/random/300x200/?samosa"
+    }
+]
